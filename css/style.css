@@ -3,34 +3,31 @@ body {
 	margin-bottom: 0px;
 }
 
-.fitness {
-	font-family: "Trebuchet MS";
-	color: #333333;
-}
-
-#f {
-	font-size: 54px;
-	margin-left: -3px;
-}
-
-#itness {
-	font-size: 47px;
-	margin-left: -5px;
+a {
+	text-decoration: none;
 }
 
 .folder {
 	background-color: white;
 	width: 1060px;
 	margin: auto;
-	margin-top: -8px;
+	margin-top: -15px;
 	padding-bottom: 60px;
 	box-shadow: 0px 0px 2px 2px #e1e1e1;
+	position: relative;
+	left: 9px;
 }
 
 .main-container {
 	padding-left: 46px;
 	padding-top: 50px;
 	padding-bottom: 52px;
+}
+
+.logo {
+	position: relative;
+	top: 6px;
+	left: -2px;
 }
 
 div.img-container {
@@ -41,8 +38,12 @@ a {
 	text-decoration: none;
 }
 
+a::visited {
+	color: black;
+}
+
 div.top-menu {
-	margin-top: 24px;
+	margin-top: 42px;
 	line-height: 40px;
 }
 
