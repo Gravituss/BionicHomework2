@@ -57,7 +57,6 @@ div.top-menu:hover {
 }
 
 div.top-menu a {
-	
 	float: left;
 	width: 155px;
 	height: 40px;
@@ -103,7 +102,6 @@ div.goods a {
 }
 
 div.goods {
-	
 	clear: both;
 	color: #656363;
 	font-size: 13.3px;
@@ -111,12 +109,10 @@ div.goods {
 	height: 38px;
 	background-color: #ffffff;
 	padding-left: 20px;
-	
 	line-height: 39px;
 }
 
 #laptops {
-	
 	border-bottom: 1px solid #c8c8c8;
 	position: relative;
 	top: 0px;
@@ -124,7 +120,6 @@ div.goods {
 }
 
 #tablets {
-	
 	border-bottom: 1px solid #c8c8c8;	
 	height: 38.9px;
 	position: relative;
@@ -132,15 +127,13 @@ div.goods {
 }
 
 #cell-phones {
-	
 	border-bottom: 1px solid #c8c8c8;	
-	height: 39.9px;
+	height: 39.6px;
 	position: relative;
 	top: 0px;
 }
 
 #tv-s {
-	
 	border-bottom: 1px solid #c8c8c8;	
 	height: 38.7px;
 	position: relative;
@@ -148,9 +141,8 @@ div.goods {
 }
 
 #appliances {
-	
 	border-bottom: 1px solid #c8c8c8;
-	height: 39.6px;	
+	height: 39.4px;	
 	position: relative;
 	top: 0px;	
 }
@@ -161,7 +153,6 @@ div.goods {
 
 #laptops-a {
 	font-size: 13.7px;
-	
 	position: relative;
 	top: 0.6px;
 	
@@ -169,37 +160,32 @@ div.goods {
 
 #tablets-a {
 	font-size: 13.3px;
-	
-	
 	position: relative;
 	top: 2px;
 }
 
 #cell-phones-a {
 	font-size: 13.2px;
-		
-	
 	position: relative;
 	top: -1px;
 }
 
 #tv-s-a {
 	font-size: 12.9px;
-		
-	
 	position: relative;
-	top: -0.7px;	
+	top: -1px;	
 }
 
 #appliances-a {
 	font-size: 13.1px;
-	
-	
 	position: relative;
 	top: -0.6px;	
 }
 
 #goods-for-cars-a {
+	font-size: 13.1px;
+	position: relative;
+	top: -1.1px;	
 		
 }
 
@@ -278,7 +264,6 @@ img {
 div.lorem-text {
 	clear: both;
 	width: 633px;
-	
 	font-size: 13px;
 	line-height: 1.6;
 	letter-spacing: 0.07px;
@@ -289,7 +274,6 @@ div.lorem-text {
 }
 
 div.bottom-menu {
-	
 	float: left;
 	height: 40px;
 	margin-top: 10px;
@@ -311,7 +295,6 @@ div.bottom-menu {
 #bottom-goods {
 	margin-left: 70px;
 	width: 132px;
-	
 }
 
 #bottom-about {
@@ -323,7 +306,6 @@ div.bottom-menu {
 #bottom-contacts {
 	margin-left: 93px;
 	width: 132px;
-	
 }
 
 #copyright {
