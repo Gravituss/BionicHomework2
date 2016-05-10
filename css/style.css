@@ -93,8 +93,8 @@ div.goods-container {
 	margin-left: 0px;
 	/*background-color: #c8c8c8;*/
 	border: 1px solid #c8c8c8;
-	width: 240px;
-	height: 241px;
+	width: 238px;
+	height: 238px;
 }
 
 div.goods a {
@@ -107,8 +107,8 @@ div.goods {
 	clear: both;
 	color: #656363;
 	font-size: 13.3px;
-	width: 220px;
-	height: 39px;
+	width: 218px;
+	height: 38px;
 	background-color: #ffffff;
 	padding-left: 20px;
 	
@@ -116,11 +116,92 @@ div.goods {
 }
 
 #laptops {
-	font-size: 13.8px;
+	
 	border-bottom: 1px solid #c8c8c8;
+	position: relative;
+	top: 0px;
+	height: 37.8px;
 }
 
+#tablets {
+	
+	border-bottom: 1px solid #c8c8c8;	
+	height: 38.9px;
+	position: relative;
+	top: 0px;
+}
 
+#cell-phones {
+	
+	border-bottom: 1px solid #c8c8c8;	
+	height: 39.9px;
+	position: relative;
+	top: 0px;
+}
+
+#tv-s {
+	
+	border-bottom: 1px solid #c8c8c8;	
+	height: 38.7px;
+	position: relative;
+	top: 0px;	
+}
+
+#appliances {
+	
+	border-bottom: 1px solid #c8c8c8;
+	height: 39.6px;	
+	position: relative;
+	top: 0px;	
+}
+
+#goods-for-cars {
+	height: 37.7px;	
+}
+
+#laptops-a {
+	font-size: 13.7px;
+	
+	position: relative;
+	top: 0.6px;
+	
+}
+
+#tablets-a {
+	font-size: 13.3px;
+	
+	
+	position: relative;
+	top: 2px;
+}
+
+#cell-phones-a {
+	font-size: 13.2px;
+		
+	
+	position: relative;
+	top: -1px;
+}
+
+#tv-s-a {
+	font-size: 12.9px;
+		
+	
+	position: relative;
+	top: -0.7px;	
+}
+
+#appliances-a {
+	font-size: 13.1px;
+	
+	
+	position: relative;
+	top: -0.6px;	
+}
+
+#goods-for-cars-a {
+		
+}
 
 div.goods:hover {
 	background-color: #f9f9f9;
