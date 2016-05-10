@@ -91,7 +91,8 @@ div.goods-container {
 	float: left;
 	margin-top: 40px;
 	margin-left: 0px;
-	background-color: #c8c8c8;
+	/*background-color: #c8c8c8;*/
+	border: 1px solid #c8c8c8;
 	width: 240px;
 	height: 241px;
 }
@@ -106,13 +107,20 @@ div.goods {
 	clear: both;
 	color: #656363;
 	font-size: 13.3px;
-	width: 218px;
+	width: 220px;
 	height: 39px;
 	background-color: #ffffff;
 	padding-left: 20px;
-	margin: 1px;
+	
 	line-height: 39px;
 }
+
+#laptops {
+	font-size: 13.8px;
+	border-bottom: 1px solid #c8c8c8;
+}
+
+
 
 div.goods:hover {
 	background-color: #f9f9f9;
